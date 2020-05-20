@@ -23,6 +23,8 @@ mongoose.connect(url).then( () => {
   console.log(err);
 } )
 
+app.use(express.static('public'));
+
 //设置passport
 app.use(passport.initialize());
 //执行passport-jwt ,传参passport
