@@ -1,0 +1,3 @@
+接口: mongodb+srv://xiaoyi:JWwXZjdOH3XiVYGC@cluster0-8qijz.mongodb.net/test?retryWrites=true&w=majority
+
+mongodb+srv://xiaoyi:<password>@cluster0-8qijz.mongodb.net/test?retryWrites=true&w=majority
